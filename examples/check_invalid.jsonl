@@ -1,0 +1,5 @@
+{"timestamp":"2026-10-22T12:00:00","level":"INFO","source":"api","message":"Нормальное событие"}
+{"timestamp":"2026-10-22T12:01:00","level":"ERROR","source":"auth"
+{"timestamp":"2026-10-22T12:02:00","level":"CRITICAL","source":"database","message":"Критическая ошибка"}
+{"timestamp":"неправильная-дата","level":"INFO","source":"api","message":"Некорректное время"}
+{"timestamp":"2026-10-22T12:04:00","level":"INFO","source":"worker","message":"Задача выполнена"}

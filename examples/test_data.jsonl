@@ -1,0 +1,10 @@
+{"timestamp":"2026-10-22T10:00:00","level":"INFO","source":"api","message":"Сервис запущен"}
+{"timestamp":"2026-10-22T10:01:00","level":"DEBUG","source":"database","message":"Подключение к базе данных"}
+{"timestamp":"2026-10-22T10:02:00","level":"ERROR","source":"auth","message":"Ошибка авторизации"}
+{"timestamp":"2026-10-22T10:03:00","level":"WARNING","source":"api","message":"Высокая задержка ответа"}
+{"timestamp":"2026-10-22T10:04:00","level":"CRITICAL","source":"database","message":"База данных недоступна"}
+{"timestamp":"2026-10-22T10:05:00","level":"ERROR","source":"auth","message":"Повторная ошибка авторизации"}
+{"timestamp":"2026-10-22T10:06:00","level":"INFO","source":"worker","message":"Задача выполнена"}
+{"timestamp":"2026-10-22T10:07:00","level":"CRITICAL","source":"api","message":"Сервис не отвечает"}
+{"timestamp":"2026-10-22T10:00:00","level":"INFO","source":"api","message":"Первое событие"}
+{"timestamp":"2026-10-22T10:00:00+03:00","level":"INFO","source":"api","message":"Второе событие"}
