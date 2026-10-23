@@ -1,0 +1,35 @@
+{"timestamp": "2026-01-01T00:00:00Z", "level": "INFO", "source": "api", "message": "Старт приложения"}
+{"timestamp": "2026-01-01T00:00:01+00:00", "level": "ERROR", "source": "db", "message": "Connection refused"}
+{"timestamp": "2026-01-01T00:00:02+00:00", "level": "CRITICAL", "source": "worker", "message": "Критическая ошибка"}
+{"timestamp": "2026-01-01T00:00:03+00:00", "level": "WARNING", "source": "api", "message": "Медленный ответ"}
+{"timestamp": "2026-01-01T00:00:04+00:00", "level": "DEBUG", "source": "cache", "message": "cache miss"}
+{"timestamp": "2026-01-01T00:00:05+00:00", "level": "ERROR", "source": "db", "message": "Повторная ошибка БД"}
+{"timestamp": "2026-01-01T00:00:06+00:00", "level": "CRITICAL", "source": "worker", "message": "Поток остановлен"}
+{"timestamp": "2026-01-01T00:00:07+00:00", "level": "ERROR", "source": "auth", "message": "Не удалось войти"}
+{"timestamp": "2026-01-01T00:00:08+00:00", "level": "ERROR", "source": "payments", "message": "Платёж отклонён"}
+{"timestamp": "2026-01-01T00:00:09+00:00", "level": "ERROR", "source": "search", "message": "Индекс недоступен"}
+{"timestamp": "2026-01-01T00:00:10+00:00", "level": "ERROR", "source": "auth", "message": "Токен просрочен"}
+{"timestamp": "2026-01-01T00:00:11+00:00", "level": "INFO", "source": "api", "message": "Запрос завершён"}
+{"timestamp": "2026-01-01T00:00:12+00:00", "level": "WARNING", "source": "cache", "message": "Кэш почти заполнен"}
+{"timestamp": "2026-01-01T00:00:13+00:00", "level": "DEBUG", "source": "worker", "message": "Начало итерации"}
+{"timestamp": "2026-01-01T00:00:14+00:00", "level": "ERROR", "source": "payments", "message": "Ошибка шлюза"}
+{"timestamp": "2026-01-01T00:00:15+00:00", "level": "CRITICAL", "source": "db", "message": "Недоступна база данных"}
+{"timestamp": "2026-01-01T00:00:16+00:00", "level": "INFO", "source": "search", "message": "Найдено 12 документов"}
+{"timestamp": "2026-01-01T00:00:17+00:00", "level": "WARNING", "source": "auth", "message": "Подозрительная активность"}
+{"timestamp": "2026-01-01T00:00:18+00:00", "level": "ERROR", "source": "cache", "message": "Ошибка чтения кэша"}
+{"timestamp": "2026-01-01T00:00:19+00:00", "level": "INFO", "source": "payments", "message": "Платёж обработан"}
+{"timestamp": "2026-01-01T00:00:20+00:00", "level": "ERROR", "source": "search", "message": "Ошибка запроса"}
+{"timestamp": "2026-01-01T00:00:21+00:00", "level": "DEBUG", "source": "api", "message": "Проверка маршрута"}
+{"timestamp": "2026-01-01T00:00:22+00:00", "level": "ERROR", "source": "db", "message": "Тайм-аут соединения"}
+{"timestamp": "2026-01-01T00:00:23+00:00", "level": "INFO", "source": "worker", "message": "Задача завершена"}
+{"timestamp": "2026-01-01T00:00:24+00:00", "level": "ERROR", "source": "auth", "message": "Неверный пароль"}
+{"timestamp": "2026-01-01T00:00:25+00:00", "level": "WARNING", "source": "payments", "message": "Долгая обработка"}
+{"timestamp": "2026-01-01T00:00:26+00:00", "level": "INFO", "source": "cache", "message": "Кэш очищен"}
+{"timestamp": "2026-01-01T00:00:27+00:00", "level": "ERROR", "source": "worker", "message": "Ошибка задания"}
+{"timestamp": "2026-01-01T00:00:28+00:00", "level": "INFO", "source": "db", "message": "Соединение восстановлено"}
+{"timestamp": "2026-01-01T00:00:29+00:00", "level": "ERROR", "source": "api", "message": "Внутренняя ошибка"}
+{"timestamp": "2026-01-01T00:00:30+00:00", "level": "INFO", "source": "auth", "message": "Вход выполнен"}
+{"timestamp": "2026-01-01T00:00:31+00:00", "level": "ERROR", "source": "cache", "message": "Повреждённая запись"}
+{"timestamp": "2026-01-01T00:00:32+00:00", "level": "CRITICAL", "source": "payments", "message": "Платёжная система остановлена"}
+{"timestamp": "2026-01-01T00:00:33+00:00", "level": "INFO", "source": "search", "message": "Поиск завершён"}
+{"timestamp": "2026-01-01T00:00:34+00:00", "level": "ERROR", "source": "worker", "message": "Повторная ошибка задания"}

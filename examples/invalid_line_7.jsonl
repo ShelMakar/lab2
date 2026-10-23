@@ -1,0 +1,8 @@
+{"timestamp": "2026-02-01T10:00:00Z", "level": "INFO", "source": "api", "message": "строка 1"}
+{"timestamp": "2026-02-01T10:00:01Z", "level": "ERROR", "source": "db", "message": "строка 2"}
+{"timestamp": "2026-02-01T10:00:02Z", "level": "DEBUG", "source": "cache", "message": "строка 3"}
+{"timestamp": "2026-02-01T10:00:03Z", "level": "WARNING", "source": "api", "message": "строка 4"}
+{"timestamp": "2026-02-01T10:00:04Z", "level": "INFO", "source": "auth", "message": "строка 5"}
+{"timestamp": "2026-02-01T10:00:05Z", "level": "ERROR", "source": "db", "message": "строка 6"}
+{"timestamp": "сломанный JSON", "level": "ERROR"}
+{"timestamp": "2026-02-01T10:00:07Z", "level": "INFO", "source": "api", "message": "строка 8"}

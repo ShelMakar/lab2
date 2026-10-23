@@ -30,6 +30,8 @@ def analyze_events(
         total_events += 1
         level_counts[event.level] += 1
         source_counts[event.source] += 1
+        if event.level in ("ERROR", "CRITICAL"):
+            error_source_counts[event.source] += 1
 
         timestamp = event.timestamp
 
