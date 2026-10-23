@@ -7,7 +7,6 @@ from streamstats.models import Event
 LEVELS = (
     "DEBUG",
     "INFO",
-    "NOTICE",
     "WARNING",
     "ERROR",
     "CRITICAL",

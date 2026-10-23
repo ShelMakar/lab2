@@ -23,7 +23,6 @@ logger = logging.getLogger(__name__)
 VALID_LEVELS = {
     "DEBUG",
     "INFO",
-    "NOTICE",
     "WARNING",
     "ERROR",
     "CRITICAL",
